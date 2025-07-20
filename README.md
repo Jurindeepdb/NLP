@@ -44,3 +44,16 @@ Where:
 
 * `as`: Assamese sentence
 * `en`: Corresponding english sentence
+
+## References
+
+This project builds on the following resources:
+
+- **Model**:  
+  [Helsinki-NLP/opus-mt-mul-en](https://huggingface.co/Helsinki-NLP/opus-mt-mul-en)  
+  A multilingual translation model from the OPUS project, used here for transfer learning and finetuning on Assamese-to-English translation.
+
+- **Codebase Inspiration**:  
+  [entbappy/NLP-Projects-Notebooks](https://github.com/entbappy/NLP-Projects-Notebooks)  
+  Parts of the notebook structure and training pipeline were adapted from this repository.
+
