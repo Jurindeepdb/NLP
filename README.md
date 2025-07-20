@@ -1,6 +1,6 @@
 This project showcases a complete workflow for fine-tuning a MarianMT model from Helsinki-NLP to translate from Assamese to English. The training is done using TensorFlow and Hugging Face's Transformers library.
 
-### Steps to Run
+## Steps to Run
 
 **1. Create and Activate Conda Environment**
 
