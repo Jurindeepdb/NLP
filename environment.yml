@@ -1,0 +1,20 @@
+name: matrasen
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - jupyterlab       
+  - cudatoolkit=11.8 
+  - numpy=1.25.2
+  - pandas
+  - tensorflow
+  - sentencepiece    
+  - transformers     
+  - datasets         
+  - sacrebleu        
+  - pytorch          
+  - torchvision      
+  - torchaudio       
+  - pip
